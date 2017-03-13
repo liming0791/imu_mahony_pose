@@ -1,0 +1,10 @@
+bin
+gen
+libs
+obj
+res
+test
+*.properties
+*.xml
+*.iml
+proguard-project.txt
